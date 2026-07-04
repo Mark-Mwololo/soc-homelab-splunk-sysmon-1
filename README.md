@@ -39,10 +39,10 @@ Simulate a realistic attack scenario against an isolated target machine, then us
 
 ## Screenshots
 
-![Kali and Windows machine communication](homelab-images/image1.png)
+![Kali and Windows machine communication](homelab-images/image01.png)
 *Initial communication test between Kali and Windows VMs*
 
-![Nmap scan results](homelab-images/image3.png)
+![Nmap scan results](homelab-images/image03.png)
 *Port scan results against the target Windows machine*
 
 ![Splunk detection interface](homelab-images/image12.png)
@@ -55,3 +55,4 @@ This lab reinforced how SOC Level 1 analysts triage alerts in practice: pulling 
 
 ## References
 - [Home lab setup walkthrough](https://youtu.be/-8X7Ay4YCoA)
+
